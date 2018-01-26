@@ -5,3 +5,5 @@ Temp
 *.csproj
 ProjectSettings
 *.sln
+*.wav
+*.mp3
